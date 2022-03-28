@@ -24,4 +24,4 @@
                    to         if (i < 5) ....
         
 
-    
+notice: 327 redo async part tests(the former modified hpx/rotate.hpp has a minor error ), the correct results updated in the ppt file as well.    
