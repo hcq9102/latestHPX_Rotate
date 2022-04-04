@@ -1,0 +1,3 @@
+/work/chuanqiu/a_correct327test/CMakeFiles/hpx_rotate.dir
+/work/chuanqiu/a_correct327test/CMakeFiles/edit_cache.dir
+/work/chuanqiu/a_correct327test/CMakeFiles/rebuild_cache.dir
